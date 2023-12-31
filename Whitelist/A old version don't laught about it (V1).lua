@@ -4,6 +4,8 @@
 
 	What exploits support this whitelist?
 	- Every single exploit that supports http.request
+
+- by ng mostly
 ]]
 
 local key = ''
