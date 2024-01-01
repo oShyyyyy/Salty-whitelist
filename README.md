@@ -16,4 +16,4 @@ Here a brief:
 - oSheep (Developer and Designer)
 - Ng (Developer)
 
-### `<discord>` : <[https://discord.gg/QNx8RzvXrH]>
+### `<discord>` : <[Invite](https://discord.gg/QNx8RzvXrH)>
