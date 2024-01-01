@@ -18,8 +18,6 @@ Here a brief:
 
 ### `<discord>` : [Invite](https://discord.gg/QNx8RzvXrH)
 
-![image](https://github.com/oShyyyyy/Salty-whitelist/assets/96142498/374814d0-ec37-433e-bd6d-5e187e94189f)
-
 [![image](https://github.com/oShyyyyy/Salty-whitelist/assets/96142498/374814d0-ec37-433e-bd6d-5e187e94189f)](https://discord.gg/QNx8RzvXrH)
 
 
