@@ -14,6 +14,6 @@ Here a brief:
 # Credits and discord
 
 - oSheep (Developer and Designer) `discord: osheepp`
-- Ng (Developer) `discord: `n24045`
+- Ng (Developer) `discord: n24045`
 
 ### `<discord>` : [Invite](https://discord.gg/QNx8RzvXrH)
