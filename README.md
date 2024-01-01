@@ -16,4 +16,4 @@ Here a brief:
 - oSheep (Developer and Designer)
 - Ng (Developer)
 
-### `<discord>` : <[https://github.com](https://discord.gg/QNx8RzvXrH)https://discord.gg/QNx8RzvXrH>
+### `<discord>` : <[https://discord.gg/QNx8RzvXrH]>
