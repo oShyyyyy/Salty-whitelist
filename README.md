@@ -5,9 +5,9 @@ Here a brief:
 
 - [cyclops EQ (its located in file virtual machine protection)](https://github.com/oShyyyyy/Salty-whitelist/blob/main/All/Virtual%20Machine%20Security.lua)
 
-  - [anti stack replay, anti dump, deep stack obfuscation (brief explanation), anti JMP and anti EQ hooks (explanation and cyclops antihook
+- [anti stack replay, anti dump, deep stack obfuscation (brief explanation), anti JMP and anti EQ hooks (explanation and cyclops antihook
 
-\n about it it's in the V2 whitelist and in the VM protection.
+ about it it's in the V2 whitelist and in the VM protection.
   
 - [three incredible good whitelist with methods never leaked before (close as good as luaguard? i dont know!)](https://github.com/oShyyyyy/Salty-whitelist/tree/main/Whitelist)
   
