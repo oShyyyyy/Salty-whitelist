@@ -17,3 +17,6 @@ Here a brief:
 - Ng (Developer) `discord: n24045`
 
 ### `<discord>` : [Invite](https://discord.gg/QNx8RzvXrH)
+
+![image](https://github.com/oShyyyyy/Salty-whitelist/assets/96142498/afd9604a-59c5-4101-a04f-d64730222be3)
+
