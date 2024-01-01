@@ -11,4 +11,9 @@ Here a brief:
 
 - NG's whitelist, and some of his works.
 
-![](https://img.shields.io/github/stars/oShyyyyy/editor.md.svg) ![](https://img.shields.io/github/forks/oShyyyyy/editor.md.svg) ![](https://img.shields.io/github/tag/oShyyyyy/editor.md.svg) ![](https://img.shields.io/github/release/oShyyyyy/editor.md.svg) ![](https://img.shields.io/github/issues/oShyyyyy/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
+# Credits and discord
+
+- oSheep (Developer and Designer)
+- Ng (Developer)
+
+### `<discord>` : <[https://github.com](https://discord.gg/QNx8RzvXrH)https://discord.gg/QNx8RzvXrH>
