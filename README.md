@@ -10,3 +10,5 @@ Here a brief:
 - two antihooks that work for every single function, 5 or more antihooks dedicated to request function, two pcall dedicated antihooks
 
 - NG's whitelist, and some of his works.
+
+![](https://img.shields.io/github/stars/oShyyyyy/editor.md.svg) ![](https://img.shields.io/github/forks/oShyyyyy/editor.md.svg) ![](https://img.shields.io/github/tag/oShyyyyy/editor.md.svg) ![](https://img.shields.io/github/release/oShyyyyy/editor.md.svg) ![](https://img.shields.io/github/issues/oShyyyyy/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
