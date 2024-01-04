@@ -63,7 +63,7 @@ for _, header in ipairs(hwidList) do
 end
 
 local Detected = ReturnAnonymous(function(Reason)
-    local BlacklistRequest = SuperRequest({Url = "https://backend-1.rojo-team.repl.co/api/auth?code=DQOWIDQWOPJUDQWOIJDQWOJDQWODJQWOJDQWOIDJQWOIJDWQOIDJQWOJWQOIJDQWOJDWCWOQHJCQOCHUQ&key=" .. AUTH_KEY .. "&HWID=" .. hwidKey}).Body
+    local BlacklistRequest = SuperRequest({Url = "" .. AUTH_KEY .. "&HWID=" .. hwidKey}).Body
     
     if tostring(BlacklistRequest):find("blacklisted") then
         _____ = Reason
