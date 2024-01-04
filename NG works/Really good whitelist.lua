@@ -1116,7 +1116,7 @@ local RequestNigga = http.request(setmetatable({}, {
 		JMP_COUNT = JMP_COUNT + 1
 
         if idx == 'Url' then
-            return 'https://backend-1.rojo-team.repl.co/checkkey?key=' .. AUTH_KEY .. '&token=' .. tostring(Encrypt(num)) .. '&token2=' .. tostring(Encrypt(num2)) .. '&experienceId=' .. tostring(game.PlaceId) .. "&hwid=" .. hwidKey .. "&code=DQOWIDQWOPJUDQWOIJDQWOJDQWODJQWOJDQWOIDJQWOIJDWQOIDJQWOJWQOIJDQWOJDWCWOQHJCQOCHUQ"
+            return '' .. AUTH_KEY .. '&token=' .. tostring(Encrypt(num)) .. '&token2=' .. tostring(Encrypt(num2)) .. '&experienceId=' .. tostring(game.PlaceId) .. "&hwid=" .. hwidKey .. "&code=DQOWIDQWOPJUDQWOIJDQWOJDQWODJQWOJDQWOIDJQWOIJDWQOIDJQWOJWQOIJDQWOJDWCWOQHJCQOCHUQ"
         elseif idx == 'Cookies' then
             return nil
         elseif idx == 'Headers' then
