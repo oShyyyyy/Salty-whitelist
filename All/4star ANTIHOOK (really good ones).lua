@@ -53,29 +53,6 @@ end
 
 
 
--- General Antihooks:  (This antihooks will protect constantly, which means they cant be disabled somehow unless you remove them from looping, but then it will have no sense)
--- Alright, these antihooks maybe is a bit more performance consuming.
-
-local function Stack(StackCount, Function, ...)
-	if StackCount == 0 then
-		task.wait()
-	end
-	Function(...)
-	Stack(StackCount + 1, Function)
-end
-
-task.spawn(function()
-	local Function = function()
-	end
-	pcall(Stack, 0, Function)
-	while task.wait(1) do
-		local Success1, Error1 = pcall(Stack, 0, Function)
-		local Success2, Error2 = pcall(Stack, 0, http.request) -- put the funciton you want to be protected here on http.request
-
-        --print(Error1,'http')
-        --print(Error2,'http')
-	end
-end)
 
 -- This just causes an overflow, if its hooked then the exploit will crash and the error of Error1 and Error2 will change, so you can easly predicting the crash by checking if the error has changed.
 -- It's not neccesary checking the error, by default this will always crash the hook anyway.
