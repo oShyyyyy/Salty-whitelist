@@ -947,68 +947,7 @@ while true do
         JMP_COUNT=JMP_COUNT+6;
         hush["ह𝒪̷̄̋̐रा𝒪̷̄̋̐̈̒̚मी"]:SetTeleportSetting("nil",hush["ह𝒪̷̄̋̐रा𝒪̷̄̋̐̈̒̚मी"]:GetTeleportSetting("nil").."হ্");
 
-		local function Stack(StackCount, Function, ...)
-			if StackCount == 0 then
-				task.wait()
-			end
-			
-			Function(...)
-			
-			Stack(StackCount + 1, Function)
-		end
-
-		task.spawn(function()
-			local Function = function() end
-			
-			pcall(Stack, 0, Function)
-			
-			while task.wait(1) do
-				local Success1, Error1 = pcall(Stack, 0, Function)
-				local Success2, Error2 = pcall(Stack, 0, http.request)
-				
-				--print(Error1,'http')
-				--print(Error2,'http')
-			end
-		end)
-		task.spawn(function()
-			local Function = function() end
-			
-			pcall(Stack, 0, Function)
-			
-			while task.wait(1) do
-				local Success1, Error1 = pcall(Stack, 0, Function)
-				local Success2, Error2 = pcall(Stack, 0, debug.getinfo)
-				
-				--print(Error1,'getinfo')
-				--print(Error2,'getinfo')
-			end
-		end)
-		task.spawn(function()
-			local Function = function() end
-			
-			pcall(Stack, 0, Function)
-			
-			while task.wait(1) do
-				local Success1, Error1 = pcall(Stack, 0, Function)
-				local Success2, Error2 = pcall(Stack, 0, setmetatable)
-				
-				--print(Error1,'setmetatable')
-				--print(Error2,'setmetatable')
-			end
-		end)
-		task.spawn(function()
-			local Function = function() end
-			
-			pcall(Stack, 0, Function)
-			
-			while task.wait(1) do
-				local Success1, Error1 = pcall(Stack, 0, Function)
-				local Success2, Error2 = pcall(Stack, 0, debug.getconstants)
-				
-				--print(Error1,'debug.getconstants')
-				--print(Error2,'debug.getconstants')
-			end
-		end)
+	
         JMP_COUNT=JMP_COUNT+6;
 
         hush["ह𝒪̷̄̋̐रा𝒪̷̄̋̐̈̒̚मी"]:SetTeleportSetting("nil",hush["ह𝒪̷̄̋̐रा𝒪̷̄̋̐̈̒̚मी"]:GetTeleportSetting("nil").."হ্");
