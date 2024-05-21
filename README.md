@@ -19,7 +19,9 @@ Here a brief:
 
 # Credits and discord
 
-- oSheep (Developer and Designer) `discord: osheepp`
+- oSheep (developer Designer) `discord: osheepp`
+- unlimited (hook crasher)
+-  other guy (developer)
 - Ng (Developer) `discord: n24045`
 
 ### `<discord>` : [Invite](https://discord.gg/QNx8RzvXrH)
