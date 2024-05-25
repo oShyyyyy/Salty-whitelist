@@ -19,7 +19,7 @@ Here a brief:
 
 # Credits and discord
 
-- oSheep (developer Designer) `discord: osheepp`
+- oSheep (developer Designer) `discord: raphaelmaboy`
 - unlimited (hook crasher)
 -  other guy (developer)
 - Ng (Developer) `discord: n24045`
