@@ -22,7 +22,7 @@ Here a brief:
 - oSheep (developer Designer) `discord: raphaelmaboy`
 - unlimited (hook crasher)
 -  other guy (developer)
-- Ng (Developer) `discord: n24045`
+- Ng (Developer) `discord: coolakaiine`
 
 ### `<discord>` : [Invite](https://discord.gg/QNx8RzvXrH)
 
